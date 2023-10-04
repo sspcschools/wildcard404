@@ -1,0 +1,30 @@
+body {
+  background-color: #f7f5e6; /* Yellow-ish background */
+  font-family: Arial, sans-serif;
+  color: #333; /* Dark text color */
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #f39c12; /* Yellow-ish header color */
+}
+
+a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f39c12; /* Yellow-ish button color */
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+}
+
+a:hover {
+  background-color: #e67e22; /* Slightly darker on hover */
+}
